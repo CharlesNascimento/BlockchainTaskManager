@@ -1,4 +1,4 @@
-# TaskManager
+# Blockchain Task Manager
 
 This is a simple implementation of a task manager Smart Contract running in the Ethereum blockchain.
 
